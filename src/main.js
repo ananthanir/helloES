@@ -1,5 +1,4 @@
 import express from 'express';
-import path from 'path';
 
 const server = express();
 const PORT = 3000;
