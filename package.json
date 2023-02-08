@@ -1,0 +1,29 @@
+{
+  "name": "helloes",
+  "version": "1.0.0",
+  "description": "Eth Dapp - ES",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananthanir/helloES.git"
+  },
+  "keywords": [
+    "ES",
+    "NodeJS",
+    "Eth"
+  ],
+  "author": "Ananthan R",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ananthanir/helloES/issues"
+  },
+  "homepage": "https://github.com/ananthanir/helloES#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
